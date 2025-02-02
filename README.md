@@ -1,6 +1,5 @@
-# MARIUSZ E-Commerce Jewelery Store
 
-A full-stack freelance project built for one of my clients in Poland, using [Next.js 14](https://nextjs.org/) with its latest features (app router, server actions, etc.), [TypeScript](https://www.typescriptlang.org/), [Auth.js / Next-Auth v.5](https://authjs.dev/), Postgres database hosted with [Neon](https://neon.tech/), [Drizzle ORM](https://orm.drizzle.team/), [Stripe](https://stripe.com/en-pl), [TailwindCSS](https://tailwindcss.com/), [Resend](https://resend.com), and many more fantastic tools.
+A full-stack freelance project built , using [Next.js 14](https://nextjs.org/) with its latest features (app router, server actions, etc.), [TypeScript](https://www.typescriptlang.org/), [Auth.js / Next-Auth v.5](https://authjs.dev/), Postgres database hosted with [Neon](https://neon.tech/), [Drizzle ORM](https://orm.drizzle.team/), [Stripe](https://stripe.com/en-pl), [TailwindCSS](https://tailwindcss.com/), [Resend](https://resend.com), and many more fantastic tools.
 
 This fully-functional jewelery shop consists of a store front, additional info pages, (such as Terms and Conditions, Privacy Policy, About Us, Mission, Contact, and so on), client's section for viewing orders and managing client's own data (such as payment options, delivery addresses, emails, etc.), and an admin dashboard, with full CRUD functionality for managing products, categories, subcategories, orders, or users. Store front and dashboards are fully responsive and built with best practices for performance, security, and accessibility.
 
@@ -70,6 +69,3 @@ Not yet available
 - [x] Latest Next.js features (app router, server actions, etc.)
 - [x] Rigorous linting and TypeScript type checking
 
-### Note:
-
-This project has been inspired by a fantastic work done by [Sadman Sakib](https://github.com/sadmann7) and countless colaborators for his [Skateshop](https://github.com/sadmann7/skateshop) project, which I highly encourage you to check out. It has been adapted to my own and my client's needs. Most notably, it has been tranformed into a single-vendor e-commerce application.
